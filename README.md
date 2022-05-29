@@ -14,14 +14,15 @@ After the above steps, the GitHub actions will succesfully generate notebook out
 The badges below should be adapted according to the new notebook.
 
 <div align="center">
-    <h1>[Notebook title]</h1>
+    <h1>A song of Ice and Phytoplankton</h1>
+    <h3>Astrid Bragstad Gjelsvik</h3>
 </div>
 
 <p align="center">
     <a href="https://github.com/Environmental-DS-Book/template-executable-notebook/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="https://mybinder.org/v2/gh/Environmental-DS-Book/template-executable-notebook/main?labpath=template-executable-notebook.ipynb">
+    <a href="https://mybinder.org/v2/gh/NordicESMhub/escience2021-group2-astrid/main?labpath=escience2021-group2-astrid.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
     <a href="https://github.com/Environmental-DS-Book/template-executable-notebook/actions/workflows/publish.yml/badge.svg">
@@ -31,7 +32,7 @@ The badges below should be adapted according to the new notebook.
 </p>
 
 <p align="center">
-    <a href="https://w3id.org/ro-id/1b8921af-e77f-4ccf-ae38-4813cdceba0f">
+    <a href="https://w3id.org/ro-id/183f2862-7509-4343-8ec9-74775b642c8d">
         <img alt="RoHub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
     </a>
 </p>
